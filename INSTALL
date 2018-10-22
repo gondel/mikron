@@ -1,0 +1,9 @@
+Building Mikron
+
+See doc/readme-qt.rst for instructions on building Mikron-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mikron.
+
+See doc/build-*.txt for instructions on building mikrond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mikron.
